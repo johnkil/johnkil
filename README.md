@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [Telegram](https://t.me/johnkil), [Twitter](https://twitter.com/johnkil), [LinkedIn](https://www.linkedin.com/in/johnkil)
+📫 How to reach me: [Telegram](https://t.me/johnkil), [Twitter](https://twitter.com/johnkil), [LinkedIn](https://www.linkedin.com/in/johnkil)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=johnkil&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **johnkil/johnkil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
